@@ -26,7 +26,7 @@ ChronoPulse is a modular, terminal-based pulse tracking engine built entirely in
 git clone https://github.com/yourusername/chronopulse.git
 cd chronopulse
 go run cmd/chronopulse/main.go
-```
+``` 
 
 📊 Output Example
 Code
