@@ -1,6 +1,6 @@
 ---
 ## 🔐 `SECURITY.md`
-
+ 
 ```markdown
 # Security Policy
 
