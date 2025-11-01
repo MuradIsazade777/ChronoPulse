@@ -3,7 +3,7 @@
 Thank you for considering contributing to ChronoPulse! We welcome pull requests, issues, and suggestions.
 
 ## 🧭 How to Contribute
-
+ 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature-name`)
 3. Commit your changes (`git commit -m 'Add feature'`)
