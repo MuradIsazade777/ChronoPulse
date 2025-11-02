@@ -5,7 +5,7 @@
 # Security Policy
 
 ## Supported Versions 
-
+ 
 We support the latest stable release of ChronoPulse.
 
 ## Reporting Vulnerabilities
