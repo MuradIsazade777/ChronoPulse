@@ -7,7 +7,7 @@
 ## Supported Versions 
  
 We support the latest stable release of ChronoPulse.
-
+ 
 ## Reporting Vulnerabilities 
 
 If you discover a security vulnerability, please email murad@example.com or open a private GitHub issue.
