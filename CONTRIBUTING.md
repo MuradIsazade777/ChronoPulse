@@ -10,7 +10,7 @@ Thank you for considering contributing to ChronoPulse! We welcome pull requests,
 4. Push to your fork (`git push origin feature-name`)
 5. Open a pull request
 
-## ✅ Code Guidelines
+## ✅ Code Guidelines 
 
 - Use idiomatic Go
 - Keep functions modular and testable
