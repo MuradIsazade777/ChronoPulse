@@ -2,7 +2,7 @@
 ## 🔐 `SECURITY.md`
  
 ```markdown
-# Security Policy
+# Security Policy 
 
 ## Supported Versions 
  
