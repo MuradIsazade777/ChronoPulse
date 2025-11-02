@@ -5,7 +5,7 @@ ChronoPulse is a modular, terminal-based pulse tracking engine built entirely in
 ## 🚀 Features 
 
 - Real-time pulse collection via goroutines and channels
-- Time-based statistical analysis 
+- Time-based statistical analysis  
 - ASCII-based terminal visualization 
 - Modular architecture with internal packages  
 - Local JSON storage for event history
