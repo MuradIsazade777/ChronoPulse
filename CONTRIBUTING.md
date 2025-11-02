@@ -21,7 +21,7 @@ Thank you for considering contributing to ChronoPulse! We welcome pull requests,
 
 If you add new features, update the README and module comments.
 
-## 🧪 Testing
+## 🧪 Testing 
 
 Ensure your code builds and runs cleanly:
 
