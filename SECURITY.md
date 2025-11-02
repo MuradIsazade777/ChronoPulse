@@ -4,7 +4,7 @@
 ```markdown
 # Security Policy
 
-## Supported Versions
+## Supported Versions 
 
 We support the latest stable release of ChronoPulse.
 
