@@ -1,6 +1,6 @@
 # ChronoPulse
 
-ChronoPulse is a modular, terminal-based pulse tracking engine built entirely in Go. It collects timestamped events in real time, analyzes their frequency, and visualizes activity using ASCII charts. Designed for performance, clarity, and open-source extensibility. 
+ChronoPulse is a modular, terminal-based pulse tracking engine built entirely in Go. It collects timestamped events in real time, analyzes their frequency, and visualizes activity  using ASCII charts. Designed for performance, clarity, and open-source extensibility. 
 
 ## 🚀 Features 
 
